@@ -1,4 +1,4 @@
-# ✋ SCT_WD_4 – Hand Gesture Recognition System
+# ✋ Hand Gesture Recognition System
 
 ## 📌 Project Overview
 
